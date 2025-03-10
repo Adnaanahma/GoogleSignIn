@@ -1,0 +1,6 @@
+@GoogleSignIn.API_HostAddress = http://localhost:5272
+
+GET {{GoogleSignIn.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
